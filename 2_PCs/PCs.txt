@@ -1,0 +1,4 @@
+Aluno: Alexandre Henrique Pires Rocha
+Matrícula: 16/0022916
+
+Esta pasta contém os pontos de controle do trabalho da disciplina Eletrônica Embarcada ministrada na FGA.
